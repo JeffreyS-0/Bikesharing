@@ -1,5 +1,12 @@
 # Bikesharing
 
+## Using Tableau
+Public Files for the Story that I have created with the August data for Citi Bike.
+
+[https://public.tableau.com/app/profile/jeffrey.sykora/viz/NYCCitiBike_16381280770770/NYCStory]
+
+[https://public.tableau.com/app/profile/jeffrey.sykora/viz/NYCCitiBikeStory_16381305892680/NYCCitibikeStory]
+
 ## Overview
 The purpose behind this analysis is to show how well Citi Bikes are doing in New York City and how they can be expanded to the Des Moines area to provide public transportation. With our upcoming meeting to our investors, we want to provide plenty of visual information to persuade them into investing in our idea.
 
