@@ -39,3 +39,7 @@ The purpose behind this analysis is to show how well Citi Bikes are doing in New
 - With most of our users only using the bikes for short distances, it is no surprise that the Top Starting Locations is very similar to the Top Ending Locations with it being densely populated in the Manhattan area.
 
 
+## Summary
+With our analysis complete, we can see that Males used the Citi Bikes 7 times more than Females, with the seeing the majority of the usage in the mid morning hours (8 and 9am) and in the afternoon to evening hours (3-7pm). This tells us that men are more likely to use the Citi Bikes as their main form of transportation to get to and from work. 
+
+Two additional forms of analysis that I would like to see are, (1.) receiving data for the entire year to see which months see the most use. If I were to guess, it would likely be the late spring to early fall (April/May through early October), as people may go towards other forms of transportation for the cold and snowy months. The second analysis that I would like to see is, (2.) receiving data for another densely populated city in the US that is also using Citi Bikes to see how well our NYC data correlates with the other city. This second analysis could give us a better understanding on whether or not implementing Citi Bikes into the Des Moines area would be profitable and beneficial to the city.
